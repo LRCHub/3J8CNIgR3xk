@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "少年、風薫る",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-24T16:48:04.479154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少年、風薫る",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_少年、風薫る_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少年、風薫る",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/02_少年、風薫る_あたらよ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年、風薫る",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_少年、風薫る_あたらよ.txt"
+    }
+  ]
+}
